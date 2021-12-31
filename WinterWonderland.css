@@ -1,0 +1,20 @@
+body{
+color:rgb(158, 255, 247);
+background:black;
+}
+#Menu{
+color:rgb(149, 42, 153);
+border: 4px dotted rgb(0, 255, 255);
+padding:12px;
+}
+.footerHome{
+border: 4px dotted white;
+padding:12px;
+}
+#WWTBS{
+    color:white;
+}
+.Weatherpics{
+    width:240px;
+    height:180px;
+}
